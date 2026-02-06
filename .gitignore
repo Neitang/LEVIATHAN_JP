@@ -39,6 +39,3 @@ _bots*
 *.otreezip
 *.coverage
 htmlcov/
-
-# Deployment
-Procfile
